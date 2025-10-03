@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text Manipulator</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Interactive Text Manipulator</h1>
+
+      <div class="form-group">
+        <input type="text" id="textInput" placeholder="Enter text..." />
+      </div>
+
+      <button id="submitBtn">Apply</button>
+
+      <div id="textDisplay"></div>
+
+      <div class="instructions">
+        <strong>Instructions:</strong>
+        <ul>
+          <li>Drag a single letter with the mouse</li>
+          <li>
+            Select multiple letters by holding the left mouse button and drawing
+            a rectangle
+          </li>
+          <li>Select letters by clicking with Ctrl</li>
+          <li>Deselect letters by clicking again</li>
+          <li>Drag selected letters together</li>
+        </ul>
+      </div>
+    </div>
+
+    <script src="/js/script.js"></script>
+  </body>
+</html>
