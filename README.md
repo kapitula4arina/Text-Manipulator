@@ -71,3 +71,24 @@ cd Text-Manipulator
 
 # open index.html in your browser
 # either by double click or using Live Server / simple static server
+
+---
+
+## 🔗 Live Demo
+
+👉 **https://kapitula4arina.github.io/Text-Manipulator/**  
+📁 Repository: https://github.com/kapitula4arina/Text-Manipulator
+
+---
+
+## 👩‍💻 Author
+
+**Oryna Kapitula**  
+Junior Fullstack Developer  
+
+📍 Zhytomyr, Ukraine  
+📧 Email: `verhovskayarina@gmail.com`  
+🔗 LinkedIn: *https://www.linkedin.com/in/oryna-kapitula/*  
+💬 Telegram: `@chuu341`
+
+---
