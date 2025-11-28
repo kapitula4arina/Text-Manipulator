@@ -71,6 +71,7 @@ cd Text-Manipulator
 
 # open index.html in your browser
 # either by double click or using Live Server / simple static server
+```
 
 ---
 
